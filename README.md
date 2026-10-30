@@ -1,6 +1,6 @@
 # GUNPLA HANGAR
 
-A responsive personal Gunpla wishlist and collection archive, built with plain HTML, CSS and JavaScript. Visit the [live site](https://andrewkotw.github.io/gunpla-hangar/).
+A responsive personal Gunpla wishlist and collection archive, built with plain HTML, CSS and JavaScript.
 
 ## Features
 
@@ -28,7 +28,7 @@ Open <http://localhost:8000>.
 
 ## GitHub Pages
 
-The site is published from the `main` branch root at <https://andrewkotw.github.io/gunpla-hangar/>. Pushes to `main` trigger a new deployment.
+The site files are on the `main` branch. To publish them, open [Settings → Pages](https://github.com/andrewkotw/gunpla-hangar/settings/pages), select **Deploy from a branch**, then choose **main** and **/(root)**. The site will appear at <https://andrewkotw.github.io/gunpla-hangar/> after GitHub finishes deploying. Later pushes to `main` will update it automatically.
 
 All navigation is relative, so it works at a project subpath and on a custom domain. No fixed hostname is embedded.
 
